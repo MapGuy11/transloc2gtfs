@@ -1,0 +1,16 @@
+Users:
+https://pennstate.transloc.com/
+https://kutztown.ridesystems.net/
+(Just to test with)
+
+JSON Outputs:
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetStopArrivalTimes?apiKey=&stopIds=401&version=2
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetMapVehiclePoints?apiKey=&isPublicMap=true
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetVehicleCapacities
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetMapConfig
+https://pennstate.transloc.com/manifest.json
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetTwitterJSON
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetStopArrivalTimes?apiKey=8882812681&stopIds=401&version=2
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetStopArrivalTimes?apiKey=8882812681&stopIds=401&version=2
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetMapVehiclePoints?apiKey=8882812681&isPublicMap=true
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetVehicleRouteStopEstimates?quantity=2&vehicleIdStrings=5
