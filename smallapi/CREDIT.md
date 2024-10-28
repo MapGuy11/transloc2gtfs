@@ -1,0 +1,2 @@
+- Portions of the mini API are based on [Carnegie Mellon University Shuttle](https://github.com/ScottyLabs/shuttle-api/)
+- Also the data is coming from [TransLoc](https://transloc.com/) Web API on the host providers *(University, etc)* Web Portal.
