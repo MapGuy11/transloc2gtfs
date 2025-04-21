@@ -19,6 +19,18 @@ https://pennstate.transloc.com/Services/JSONPRelay.svc/GetVehicleRouteStopEstima
 https://pennstate.transloc.com/Services/JSONPRelay.svc/GetStops
 https://pennstate.transloc.com/Services/JSONPRelay.svc/GetRoutes
 
+https://uva.transloc.com/Services/JSONPRelay.svc/GetRoutesForMapWithScheduleWithEncodedLine
+https://wcupa.transloc.com/Services/JSONPRelay.svc/GetScheduleRouteActiveTimeSpans
+https://uva.transloc.com/Services/JSONPRelay.svc/GetRoutesForMapWithSchedule
+
+
+## All Transloc Systems:
+https://admin.ridesystems.net/api/Clients/GetClients
+
+## Specific One
+https://admin.ridesystems.net/api/Clients/GetClient?clientID=1250
+
+
 
 Fullington Trailways (The Full Driver Name is Interesting) (Pull is very slowwwwwwwwww)
 https://api.fleet-integrations.com/tbn/vehicle/track/fleet?tenant=fullingtontours-081b9ade&mode=bookingType&value=FAB
