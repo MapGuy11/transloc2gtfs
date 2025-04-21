@@ -17,6 +17,7 @@ https://pennstate.transloc.com/Services/JSONPRelay.svc/GetStopArrivalTimes?apiKe
 https://pennstate.transloc.com/Services/JSONPRelay.svc/GetMapVehiclePoints?apiKey=8882812681&isPublicMap=true
 https://pennstate.transloc.com/Services/JSONPRelay.svc/GetVehicleRouteStopEstimates?quantity=2&vehicleIdStrings=5
 https://pennstate.transloc.com/Services/JSONPRelay.svc/GetStops
+https://pennstate.transloc.com/Services/JSONPRelay.svc/GetRoutes
 
 
 Fullington Trailways (The Full Driver Name is Interesting) (Pull is very slowwwwwwwwww)
